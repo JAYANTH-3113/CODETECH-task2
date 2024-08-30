@@ -3,7 +3,7 @@
 ## *ID*:CT08DS7293
 ## *DOMAIN*:JAVA PROGRAMMING
 ## *DURATION*:AUGUST 20th TO SEPTEMBER 20th, 2024
-## *MENTOR*:neela santhosh kumar
+## *MENTOR*:NEELA SANTHOSH KUMAR
 
 
 # *Project Overview*
