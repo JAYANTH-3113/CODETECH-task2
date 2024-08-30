@@ -9,7 +9,9 @@
 # *Project Overview*
 
 ## *Project: Exploratory Java Programming On STUDENT GRADE TRACKER*
-## Overview of Student Grade Manager
+
+![code task 2](https://github.com/user-attachments/assets/7202ee49-e8d7-4732-9e18-34eb92d4151d)
+
 
 ## **Purpose**
 The Student Grade Manager is a Java application designed to help students and educators track and manage grades for various subjects or assignments. The system allows users to input grades, calculate averages, and display detailed information about individual subjects and overall performance.
